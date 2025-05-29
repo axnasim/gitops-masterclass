@@ -14,3 +14,4 @@ In this Master Class we’ll be going over:
 
 ## Stuck? Need Help Getting Un-Stuck?
 If you have any difficulties during this workshop, [join the Akuity Discord](https://discord.com/invite/dHJBZw6ewT) and ask questions in the **#gitops-masterclass** channel.
+Argo CD uses same service account for all operations by default
